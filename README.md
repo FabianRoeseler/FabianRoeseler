@@ -14,8 +14,6 @@ I'm a passionate **Frontend Developer** from **Wuppertal/Germany** with a love f
 
 - ⚡ I'm a huge fan of **VSCode** and **Neovim**, constantly tweaking and modding to get the perfect setup! Linux is my go-to operating system, and I’m always looking for ways to improve my workflow on it.
 
-<h3 align="left">📫 Connect with me: **kueppers.fabian@web.de** </h3>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
@@ -25,3 +23,5 @@ I'm a passionate **Frontend Developer** from **Wuppertal/Germany** with a love f
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+
+<p align="left"> Feel free to check out my repositories below and don’t hesitate to reach out if you have any questions or collaborations in mind! </p>
