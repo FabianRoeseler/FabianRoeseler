@@ -10,11 +10,9 @@ I'm a passionate **Frontend Developer** from **Wuppertal/Germany** with a love f
 
 - 🔭 I’m currently working on [a Jump 'n' Run game called "El Pollo Loco"](https://github.com/FabianRoeseler/elpolloloco)
 
-- 🌱 I’m currently learning <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
+- 🌱 I’m currently learning **Angular**
 
-- ⚡ Fun Facts:
-- I'm a huge fan of **VSCode** and **Neovim**, constantly tweaking and modding to get the perfect setup!
-- Linux is my go-to operating system, and I’m always looking for ways to improve my workflow on it.
+- ⚡ I'm a huge fan of **VSCode** and **Neovim**, constantly tweaking and modding to get the perfect setup! Linux is my go-to operating system, and I’m always looking for ways to improve my workflow on it.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
