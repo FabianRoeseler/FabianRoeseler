@@ -8,7 +8,7 @@ I'm a passionate Frontend Developer from Wuppertal / Germany. I love building cl
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabianroeseler&label=Profile%20views&color=0e75b6&style=flat" alt="fabianroeseler" /> </p>
 
-- 🔭 I’m currently working on [a Jump 'n' Run game called "El Pollo Loco"](https://github.com/FabianRoeseler/elpolloloco)
+- 🔭 I’m currently working on a Jump 'n' Run game called ["El Pollo Loco"](https://github.com/FabianRoeseler/elpolloloco)
 
 - 🌱 I’m currently learning **Angular**
 
