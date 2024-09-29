@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Fabian</h1>
-<h3 align="center">A passionate frontend developer from Germany</h3>
+
+
+
+<h1 align="center">Hi there 👋, I'm  Fabian</h1>
+<h3 align="center">
+I'm a passionate **Frontend Developer** from **Wuppertal/Germany** with a love for building clean, responsive, and user-friendly web applications. I love diving deep into the details of performance and design.  
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabianroeseler&label=Profile%20views&color=0e75b6&style=flat" alt="fabianroeseler" /> </p>
 
@@ -7,7 +12,9 @@
 
 - 🌱 I’m currently learning <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
 
-- 📫 How to reach me **kueppers.fabian@web.de**
+- ⚡ Fun Facts:
+- I'm a huge fan of **VSCode** and **Neovim**, constantly tweaking and modding to get the perfect setup!
+- Linux is my go-to operating system, and I’m always looking for ways to improve my workflow on it.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,4 +31,4 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabianroeseler&show_icons=true&locale=en&layout=compact" alt="fabianroeseler" /></p>
+- 📫 How to reach me **kueppers.fabian@web.de**
