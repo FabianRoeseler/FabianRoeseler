@@ -14,8 +14,7 @@ I'm a passionate **Frontend Developer** from **Wuppertal/Germany** with a love f
 
 - ⚡ I'm a huge fan of **VSCode** and **Neovim**, constantly tweaking and modding to get the perfect setup! Linux is my go-to operating system, and I’m always looking for ways to improve my workflow on it.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">- 📫 How to reach me **kueppers.fabian@web.de**</p>
+<h3 align="left">📫 Connect with me: **kueppers.fabian@web.de** </h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
