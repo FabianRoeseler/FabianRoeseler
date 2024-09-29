@@ -1,10 +1,10 @@
 
 
 
-<h1 align="center">Hi there 👋, I'm  Fabian</h1>
-<h3 align="center">
+<h1 align="left">Hi there 👋, I'm  Fabian</h1>
+<p align="left">
 I'm a passionate **Frontend Developer** from **Wuppertal/Germany** with a love for building clean, responsive, and user-friendly web applications. I love diving deep into the details of performance and design.  
-</h3>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabianroeseler&label=Profile%20views&color=0e75b6&style=flat" alt="fabianroeseler" /> </p>
 
